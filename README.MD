@@ -1,6 +1,7 @@
 # 🤖 Llama 3.2 Chatbot
 
-Streamlit chatbot powered by Ollama.
+ChatBot powered by Llama 3.2 (1B) via Ollama, leveraging LangChain to connect with the LLM.
+Engage in natural conversations with your intelligent assistant on any topic!
 
 ## 🖼️ Preview
 
