@@ -19,11 +19,6 @@ system_message=SystemMessagePromptTemplate.from_template("You are a helpful AI a
 # Chat histroy using session state
 if "chat_history" not in st.session_state:
     st.session_state["chat_history"]=[]
-
-# form for Questions
-#with st.form("Form"):
-    #text=st.text_area("Enter your question here...")
-    #submit=st.form_submit_button("Submit")
     
 text=st.chat_input("Type Here....")
 
